@@ -1,7 +1,7 @@
 # Enough
 
 <figure style="">
-  <img src="./resources/logo-512.jpg" alt="logo image of enough company" style="width:20%;">
+  <img src="https://xenough-public.s3.ap-northeast-2.amazonaws.com/logo/512.jpg" alt="logo image of enough company" style="width:20%;">
   <figcaption>Good to Great. Enough.</figcaption>
 </figure>
 
